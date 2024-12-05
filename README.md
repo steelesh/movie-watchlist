@@ -2,7 +2,7 @@
 
 ## purpose
 
-python script that allows users to manage a personal movie watchlist, in an easy and lightweight way using the command line. users can create, read, update, and delete movies from their list w/ arguments. [see usage](#usage)
+python script that allows users to manage a personal movie watchlist, in an easy and lightweight way using the command line. users can create, read, update, and delete movies from their list with arguments. [see usage](#usage)
 
 ## features
 - validation: uses regex for title formatting, enumerated genres, and rating constraints
