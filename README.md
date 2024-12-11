@@ -165,6 +165,6 @@ the dark knight | action | 5 | Yes
 - watched status must be either true or false
 
 ## license
->you can check out the full license [here](https://github.com/steelesh/movie-watchlist/LICENSE)
+>you can check out the full license [here](https://github.com/steelesh/movie-watchlist/blob/main/LICENSE)
 
 this project is licensed under the terms of the **MIT** license
